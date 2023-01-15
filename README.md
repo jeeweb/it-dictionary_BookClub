@@ -10,9 +10,9 @@
 <pre>#코딩 #개발자 #노마드북클럽 #노개북</pre>
 
 ## TIL 목차
-* <a href="assignment-02.md">Assignment #02 </a>
+* <a href="assignment-02.md">Assignment #02</a>
   * ep.1 ~ ep.5
-* Assignment #03
+* <a href="assignment-03.md">Assignment #03</a>
   * ep.6 ~ ep.10
 * Assignment #04
   * 퀴즈 Quiz (1)
