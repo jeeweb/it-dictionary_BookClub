@@ -16,7 +16,7 @@
   * ep.6 ~ ep.10
 * Assignment #04
   * 퀴즈 Quiz (1)
-* Assignment #05
+* <a href="assignment-05.md">Assignment #05</a>
   * ep.11 ~ ep.15
 * Assignment #06
   * ep.16 ~ ep.21
