@@ -20,7 +20,7 @@
   * ep.11 ~ ep.15
 * <a href="assignment-06.md">Assignment #06</a>
   * ep.16 ~ ep.21
-* Assignment #07
+* <a href="assignment-07.md">Assignment #07</a>
   * ep.22 ~ ep.25
 * Assignment #08
   * 퀴즈 Quiz (2)
