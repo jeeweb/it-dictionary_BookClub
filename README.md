@@ -24,9 +24,9 @@
   * ep.22 ~ ep.25
 * Assignment #08
   * 퀴즈 Quiz (2)
-* Assignment #09
+* <a href="assignment-09.md">Assignment #09</a>
   * ep.26 ~ ep.29
-* Assignment #10
+* <a href="assignment-10.md">Assignment #10</a>
   * ep.30 ~ ep.34
 * Assignment #11
   * 미션 Mission (1)
