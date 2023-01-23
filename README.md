@@ -28,7 +28,7 @@
   * ep.26 ~ ep.29
 * <a href="assignment-10.md">Assignment #10</a>
   * ep.30 ~ ep.34
-* Assignment #11
+* <a href="index.html">Assignment #11</a>
   * 미션 Mission (1)
 * Assignment #12
   * ep.35 ~ ep.38
