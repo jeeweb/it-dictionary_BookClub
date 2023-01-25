@@ -36,7 +36,7 @@
   - 미션 Mission (1)
 - <a href="assignment-12.md">Assignment #12</a>
   - ep.35 ~ ep.38
-- Assignment #13
+- <a href="assignment-13.md">Assignment #13</a>
   - ep.39 ~ ep.45
 - Assignment #14
   - 미션 Final Mission (2)
