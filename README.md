@@ -38,5 +38,5 @@
   - ep.35 ~ ep.38
 - <a href="assignment-13.md">Assignment #13</a>
   - ep.39 ~ ep.45
-- Assignment #14
-  - 미션 Final Mission (2)
+- <a href="https://animated-albatross-a89.notion.site/2023-7d04a99bf5004bc0b0461648482df903">Assignment #14</a>
+  - 미션 Final Mission (2) - 개발 공부 계획 세우기
